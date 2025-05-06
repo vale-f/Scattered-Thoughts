@@ -1,0 +1,21 @@
+# Archivos generados por MkDocs
+site/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+
+# Entorno virtual
+venv/
+.env/
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de editores
+.vscode/
+.idea/
+
+# Configuraciones locales
+*.local
