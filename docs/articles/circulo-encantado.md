@@ -1,2 +1,2 @@
-# El circulo encantado: el yo, el otro y la máquina
+# El círculo encantado: el yo, el otro y la máquina
 
