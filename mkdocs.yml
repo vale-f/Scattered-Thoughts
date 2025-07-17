@@ -4,3 +4,5 @@ theme:
 docs_dir: docs
 nav:
   - Home: index.md
+  - Articles:
+      - Article 1: articles/circulo-encantado.md
