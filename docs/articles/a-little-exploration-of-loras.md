@@ -1,6 +1,6 @@
 # A Little Exploration of LoRAs
 
-<p align="justify">A few months ago, I experimented with training a LoRA for the <a href="https://huggingface.co/black-forest-labs/FLUX.1-dev">Flux.1-dev</a> model, aiming to generate a consistent character across outputs.</p>
+<p align="justify">A few months ago, I experimented with training a LoRA for the <a href="https://huggingface.co/black-forest-labs/FLUX.1-dev">FLUX.1 [dev]</a> model, aiming to generate a consistent character across outputs.</p>
 <p align="justify">Using a multimodal LLM, I iterated on prompts and generated a large number of images, ultimately selecting 14 relatively consistent ones to use as the LoRA training dataset.</p>
 <p align="justify">These are the images I ended up using to train the LoRA:</p>
 
@@ -34,7 +34,7 @@
 
 
  <br>
-<p align="justify">I used the <a href="https://github.com/ostris/ai-toolkit">AI-Toolkit</a> framework for training. Since my local machine was not powerful enough for this task, I opted for <a href="https://www.runpod.io/">RunPod</a>, a company that provides GPU cloud computing services.</p>
+<p align="justify">I used the <a href="https://github.com/ostris/ai-toolkit">AI Toolkit</a> framework for training. Since my local machine was not powerful enough for this task, I opted for <a href="https://www.runpod.io/">RunPod</a>, a company that provides GPU cloud computing services.</p>
 <p align="justify">To generate images with Flux.1 Dev and my LoRA, I used <a href="https://www.comfy.org/">ComfyUI</a>, which is an open-source, node-based program that allows users to work with free diffusion models.</p>
 <p align="justify">You can view a selection of the generated images below:</p>
 
